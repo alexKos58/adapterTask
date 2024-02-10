@@ -1,0 +1,6 @@
+img*
+mvnw
+mvnw.cmd
+.mvn/
+.idea/
+target/

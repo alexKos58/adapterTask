@@ -1,0 +1,9 @@
+server:
+  port: 8080
+
+weather:
+  api:
+    url: "https://www.gismeteo.ru/api/"
+
+serviceB:
+  url: "https://api.serviceB"
